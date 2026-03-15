@@ -1,4 +1,4 @@
-runtime: nodejs24 //18에서 수정
+runtime: nodejs24 #18에서 수정
 env: standard
 
 instance_class: F2
